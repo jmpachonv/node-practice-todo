@@ -1,4 +1,4 @@
-##Command app
+# Command app
 
 Course exercise
 
